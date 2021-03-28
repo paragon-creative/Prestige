@@ -1,0 +1,9 @@
+@media only screen {
+  :root {
+    --Orange: #F5CB5C;
+    --Grey: #333533;
+    --Black: #242423;
+    --LightGrey: #DCE4DA;
+    --LightOrange:#EFDC9E;
+  }
+}
